@@ -1,0 +1,5 @@
+# Found on https://www.theanalysisfactor.com/r-11-bar-charts/
+
+barplot(B, main="Data SCience Profile", xlab="DS Foundations", ylab="MY VALUES", names.arg=c("Computer Programming","Math","Statistics","Machine Learning","Domain Expertise","Communication and Presentation","Data Visualization"),
+border="red", density=c(3, 4, 2, 2, 4, 5, 4))
+
